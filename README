@@ -1,0 +1,5 @@
+Python wrapper for the Campaign Monitor SOAP API, which provides access to all API Methods.
+
+Campaign Monitor API: http://www.campaignmonitor.com/api/
+
+Original code by Christopher Cote of Entropealabs.
